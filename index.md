@@ -12,5 +12,4 @@ Choose language / 言語を選択:
 
 ---
 
-- GitHub: <https://github.com/koukemo-orgs/deskaier>
 - Package: `com.koukemo.deskaier`
