@@ -3,6 +3,8 @@ layout: page
 title: FAQ
 ---
 
+{% include nav-en.md %}
+
 # FAQ
 
 ## Q. How can I hide specific services from AI Quick Launch?

@@ -3,6 +3,8 @@ layout: page
 title: バックアップと復元
 ---
 
+{% include nav-ja.md %}
+
 # バックアップと復元
 
 ## バックアップを書き出し

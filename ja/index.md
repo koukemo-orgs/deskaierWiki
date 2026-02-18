@@ -3,6 +3,8 @@ layout: page
 title: DeskAIer ドキュメント
 ---
 
+{% include nav-ja.md %}
+
 # DeskAIer ドキュメント（日本語）
 
 DeskAIer の使い方ガイドです。

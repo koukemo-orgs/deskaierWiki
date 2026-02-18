@@ -3,6 +3,8 @@ layout: page
 title: Getting Started
 ---
 
+{% include nav-en.md %}
+
 # Getting Started
 
 ## First-time setup

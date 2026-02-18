@@ -3,6 +3,8 @@ layout: page
 title: ホーム画面と表示設定
 ---
 
+{% include nav-ja.md %}
+
 # ホーム画面と表示設定
 
 ## ホーム表示

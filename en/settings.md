@@ -3,6 +3,8 @@ layout: page
 title: Home UI & Display Settings
 ---
 
+{% include nav-en.md %}
+
 # Home UI & Display Settings
 
 ## Section visibility

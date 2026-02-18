@@ -3,6 +3,8 @@ layout: page
 title: FAQ
 ---
 
+{% include nav-ja.md %}
+
 # FAQ
 
 ## Q. AI Quick Launch に表示されるサービスを減らしたい

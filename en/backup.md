@@ -3,6 +3,8 @@ layout: page
 title: Backup & Restore
 ---
 
+{% include nav-en.md %}
+
 # Backup & Restore
 
 ## Export backup

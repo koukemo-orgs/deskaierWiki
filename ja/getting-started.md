@@ -3,6 +3,8 @@ layout: page
 title: はじめに
 ---
 
+{% include nav-ja.md %}
+
 # はじめに
 
 ## インストール後の初期手順

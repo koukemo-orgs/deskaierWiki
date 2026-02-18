@@ -3,6 +3,8 @@ layout: page
 title: DeskAIer Documentation
 ---
 
+{% include nav-en.md %}
+
 # DeskAIer Documentation (English)
 
 ## Contents
