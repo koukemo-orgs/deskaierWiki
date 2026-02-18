@@ -17,4 +17,3 @@ title: DeskAIer Documentation
 ## Platform
 
 - Android launcher app
-- Package: `com.koukemo.deskaier`

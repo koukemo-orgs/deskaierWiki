@@ -19,4 +19,3 @@ DeskAIer の使い方ガイドです。
 ## 対応環境
 
 - Android（ランチャーアプリとして利用）
-- パッケージ名: `com.koukemo.deskaier`

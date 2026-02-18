@@ -12,4 +12,3 @@ Choose language / 言語を選択:
 
 ---
 
-- Package: `com.koukemo.deskaier`
