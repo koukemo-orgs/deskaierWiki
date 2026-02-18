@@ -4,3 +4,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-seo-tag
+
+# Prevent mixed auto-generated top menu across JA/EN pages
+header_pages: []
