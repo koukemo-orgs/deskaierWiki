@@ -14,6 +14,7 @@ DeskAIer の使い方ガイドです。
 - [はじめに](./getting-started)
 - [ホーム画面と表示設定](./settings)
 - [バックアップと復元](./backup)
+- [Pro機能チュートリアル](./pro-features)
 - [FAQ](./faq)
 
 ## 対応環境
