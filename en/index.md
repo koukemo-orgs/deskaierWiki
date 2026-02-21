@@ -7,6 +7,8 @@ title: DeskAIer Documentation
 
 # DeskAIer Documentation (English)
 
+> English UI screenshots are now included in the child pages.
+
 ## Contents
 
 - [Getting Started](./getting-started)

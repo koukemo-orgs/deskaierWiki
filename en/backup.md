@@ -22,3 +22,7 @@ title: Backup & Restore
 
 - Large files are supported via Android SAF stream fallback
 - Broken/unsupported files show `Unsupported or broken backup file`
+
+## Usage Access settings (for Smart Suggestions)
+
+![Usage Access settings (English)](./assets/screenshots/usage-access-settings-en.png)
