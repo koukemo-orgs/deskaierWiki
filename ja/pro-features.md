@@ -116,6 +116,23 @@ title: Pro機能チュートリアル
 
 ![タブ一覧（遷移先の例）](./assets/screenshots/tab-list.png)
 
+### 動画（MP4）
+
+#### 1) ボタンタップでメニュー表示
+<video controls playsinline preload="metadata" style="max-width: 100%; border-radius: 10px;">
+  <source src="./assets/pro/fab-open-menu.mp4" type="video/mp4">
+</video>
+
+#### 2) ボタンをドラッグ移動（固定OFF）
+<video controls playsinline preload="metadata" style="max-width: 100%; border-radius: 10px;">
+  <source src="./assets/pro/fab-drag.mp4" type="video/mp4">
+</video>
+
+#### 3) 長押しで固定/解除
+<video controls playsinline preload="metadata" style="max-width: 100%; border-radius: 10px;">
+  <source src="./assets/pro/fab-lock-toggle.mp4" type="video/mp4">
+</video>
+
 ### Pro表示/課金導線の改善
 
 - Pro有効時は「現在のプラン（月額/年額）」を表示
