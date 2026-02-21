@@ -62,6 +62,11 @@ DeskAIerホーム表示では、以下を個別に表示/非表示できます�
 
 ![タブ一覧](./assets/screenshots/tab-list.png)
 
+#### 動画（MP4）: タブ切り替えとジェスチャー操作
+<video controls playsinline preload="metadata" style="max-width: 100%; border-radius: 10px;">
+  <source src="./assets/pro/tab-gesture-nav.mp4" type="video/mp4">
+</video>
+
 ### プロンプトライブラリ（2/4）
 
 ![プロンプトライブラリ](./assets/screenshots/prompt-library.png)
