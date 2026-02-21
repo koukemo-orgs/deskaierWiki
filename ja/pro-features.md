@@ -108,6 +108,10 @@ title: Pro機能チュートリアル
 
 ### 画面イメージ（フローティング導線）
 
+![フローティング操作ボタン（ホーム）](./assets/screenshots/pro-floating-button-home.png)
+
+![フローティング操作ボタン設定](./assets/screenshots/pro-floating-button-settings.png)
+
 ![設定（Pro項目を含む）](./assets/screenshots/settings-pro.png)
 
 ![タブ一覧（遷移先の例）](./assets/screenshots/tab-list.png)
