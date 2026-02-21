@@ -1,0 +1,36 @@
+/* Minimal custom styling for GitHub Pages (minima theme) */
+
+.page-content {
+  line-height: 1.75;
+}
+
+.page-content h1,
+.page-content h2,
+.page-content h3 {
+  letter-spacing: 0.01em;
+}
+
+.page-content h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.page-content img,
+.page-content video {
+  border-radius: 10px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+}
+
+.page-content video {
+  width: 100%;
+  height: auto;
+  margin: 0.4rem 0 1rem;
+}
+
+@media (max-width: 700px) {
+  .page-content {
+    font-size: 0.98rem;
+  }
+}
