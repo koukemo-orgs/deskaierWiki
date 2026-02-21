@@ -55,3 +55,17 @@ DeskAIerホーム表示では、以下を個別に表示/非表示できます�
 - リスト
 - アイコン
 - リング
+
+## タブ一覧と画面切り替え
+
+下部の `x/4` 表示をタップすると、タブ一覧（ホーム / プロンプト / グループ / 設定）を開けます。
+
+![タブ一覧](./assets/screenshots/tab-list.png)
+
+### プロンプトライブラリ（2/4）
+
+![プロンプトライブラリ](./assets/screenshots/prompt-library.png)
+
+### グループ（3/4）
+
+![グループ画面](./assets/screenshots/session-group.png)
