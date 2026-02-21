@@ -88,6 +88,57 @@ title: Pro機能チュートリアル
 
 ## 4. Browser Pro
 
+## 追加されたPro機能（最新）
+
+### フローティング操作ボタン（アプリ内）
+
+- 半透明の丸ボタンを表示
+- タップでクイックメニュー（ホーム / プロンプト / グループ / 設定 / 検索導線）
+- 固定OFF時はドラッグ移動、長押しで固定/解除
+- 位置は保存され、再起動後も維持
+
+設定場所:
+- 設定 > **DeskAIerホーム表示** > **Pro: フローティング操作ボタン**
+- 設定 > **DeskAIerホーム表示** > **ボタン位置を固定**
+
+使い方の流れ:
+1. Pro: フローティング操作ボタン をON
+2. ボタンをタップして、画面遷移メニューを開く
+3. 固定をOFFにしてドラッグ移動、位置が決まったら固定ON
+
+### 画面イメージ（フローティング導線）
+
+![フローティング操作ボタン（ホーム）](./assets/screenshots/pro-floating-button-home.png)
+
+![フローティング操作ボタン設定](./assets/screenshots/pro-floating-button-settings.png)
+
+![設定（Pro項目を含む）](./assets/screenshots/settings-pro.png)
+
+![タブ一覧（遷移先の例）](./assets/screenshots/tab-list.png)
+
+### 動画（MP4）
+
+#### 1) ボタンタップでメニュー表示
+<video controls playsinline preload="metadata" style="max-width: 100%; border-radius: 10px;">
+  <source src="./assets/pro/fab-open-menu.mp4" type="video/mp4">
+</video>
+
+#### 2) ボタンをドラッグ移動（固定OFF）
+<video controls playsinline preload="metadata" style="max-width: 100%; border-radius: 10px;">
+  <source src="./assets/pro/fab-drag.mp4" type="video/mp4">
+</video>
+
+#### 3) 長押しで固定/解除
+<video controls playsinline preload="metadata" style="max-width: 100%; border-radius: 10px;">
+  <source src="./assets/pro/fab-lock-toggle.mp4" type="video/mp4">
+</video>
+
+### Pro表示/課金導線の改善
+
+- Pro有効時は「現在のプラン（月額/年額）」を表示
+- Pro有効時は購入ボタンを非表示（復元のみ表示）
+- 非加入時はProでできることを明示してから購入導線を表示
+
 ### 4-1. 片手操作UI
 
 設定画面（4/4）の「Pro: 片手ジェスチャー調整（要Pro）」から、DeskAIer全体の片手ジェスチャー設定に進めます。
