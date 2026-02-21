@@ -65,6 +65,12 @@ title: Pro機能チュートリアル
 - 仕事モード固定
 - 私用モード固定
 
+### 3-3. 画面イメージ
+
+![自動モード切替（高度ルール）](./assets/screenshots/pro-auto-mode-rules.png)
+
+![プラットフォーム設定（自動モード切替導線）](./assets/screenshots/pro-platform-automation-overview.png)
+
 ---
 
 ## 4. Browser Pro
@@ -74,6 +80,8 @@ title: Pro機能チュートリアル
 設定画面（4/4）の「Pro: 片手ジェスチャー調整（要Pro）」から、DeskAIer全体の片手ジェスチャー設定に進めます。
 
 ![設定（Pro項目を含む）](./assets/screenshots/settings-pro.png)
+
+![プラットフォーム設定（片手ジェスチャー関連）](./assets/screenshots/pro-onehand-setting.png)
 
 - 片手用UIの有効化
 - バー位置（左/中央/右）
