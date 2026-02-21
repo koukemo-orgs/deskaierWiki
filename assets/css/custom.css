@@ -142,3 +142,12 @@
     background: #0b1220;
   }
 }
+
+/* Minima mobile header menu is unused in this wiki (we use in-page nav). */
+.site-nav .menu-icon {
+  display: none !important;
+}
+
+.site-nav .trigger {
+  display: none !important;
+}
