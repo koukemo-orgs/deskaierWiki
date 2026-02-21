@@ -115,39 +115,9 @@
   }
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --surface: #0f172a;
-    --surface-soft: #111827;
-    --text-main: #e5e7eb;
-    --text-sub: #cbd5e1;
-    --line: #334155;
-    --brand: #a5b4fc;
-    --brand-soft: #1e1b4b;
-  }
+/* Keep high-contrast light mode on mobile/desktop for readability. */
 
-  .page-content blockquote {
-    background: #111827;
-    border-left-color: #6366f1;
-    color: #d1d5db;
-  }
-
-  .page-content code {
-    background: #111827;
-    border-color: #374151;
-    color: #d1d5db;
-  }
-
-  .page-content th {
-    background: #0b1220;
-  }
-}
-
-/* Minima mobile header menu is unused in this wiki (we use in-page nav). */
-.site-nav .menu-icon {
-  display: none !important;
-}
-
-.site-nav .trigger {
+/* Minima header menu is unused in this wiki (we use in-page nav). */
+.site-nav {
   display: none !important;
 }
