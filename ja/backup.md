@@ -34,6 +34,7 @@ title: バックアップと復元
 ## 動画（MP4）
 
 #### バックアップ/復元導線（設定画面）
+バックアップ書き出し・復元メニューへ到達するまでの操作です。
 <video controls playsinline preload="metadata" style="max-width: 100%; border-radius: 10px;">
   <source src="./assets/pro/backup-restore-flow.mp4" type="video/mp4">
 </video>

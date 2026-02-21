@@ -134,11 +134,13 @@ title: Pro機能チュートリアル
 </video>
 
 #### 4) 自動モード切替の設定導線（高度ルール周辺）
+平日設定や高度ルール追加までの導線を確認できます。
 <video controls playsinline preload="metadata" style="max-width: 100%; border-radius: 10px;">
   <source src="./assets/pro/auto-mode-settings.mp4" type="video/mp4">
 </video>
 
 #### 5) AIクイック起動の優先順操作
+表示順の変更や操作イメージを確認できます。
 <video controls playsinline preload="metadata" style="max-width: 100%; border-radius: 10px;">
   <source src="./assets/pro/ai-quick-priority.mp4" type="video/mp4">
 </video>
