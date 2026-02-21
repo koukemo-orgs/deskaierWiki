@@ -87,16 +87,20 @@ title: Pro機能チュートリアル
 
 ---
 
-## 5. 後日追加予定（画像・動画）
+## 5. 画面キャプチャ（追加）
 
-このページには今後、以下を追加予定です。
+### 5-1. 設定（Pro項目）
 
-- 画面キャプチャ（PNG）
+![設定（Pro項目）](./assets/screenshots/settings-pro.png)
+
+### 5-2. プラットフォーム設定（AIクイック起動の優先順 / Proワークスペース切替 など）
+
+![プラットフォーム設定（Pro）](./assets/screenshots/pro-onehand-setting.png)
+
+---
+
+今後も、以下の導線キャプチャを継続追加します。
+
+- 自動モード切替（高度ルール）
+- Browser Pro（片手操作UIの詳細）
 - 操作GIF（短尺）
-- 主要導線の動画クリップ
-
-推奨配置例:
-
-- `ja/assets/pro/ai-quick-rule.png`
-- `ja/assets/pro/auto-mode-rule.gif`
-- `ja/assets/pro/browser-onehand.mp4`
