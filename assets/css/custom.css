@@ -1,25 +1,62 @@
-/* Minimal custom styling for GitHub Pages (minima theme) */
+/* Enhanced custom styling for GitHub Pages (minima theme) */
+
+:root {
+  --surface: #ffffff;
+  --surface-soft: #f8fafc;
+  --text-main: #1f2937;
+  --text-sub: #4b5563;
+  --line: #e5e7eb;
+  --brand: #4f46e5;
+  --brand-soft: #eef2ff;
+}
 
 .page-content {
-  line-height: 1.75;
+  line-height: 1.78;
+  color: var(--text-main);
 }
 
 .page-content h1,
 .page-content h2,
 .page-content h3 {
   letter-spacing: 0.01em;
+  line-height: 1.35;
 }
 
 .page-content h2 {
   margin-top: 2rem;
-  padding-bottom: 0.25rem;
-  border-bottom: 1px solid #e8e8e8;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.page-content p,
+.page-content li {
+  color: var(--text-sub);
+}
+
+/* Nav include links -> pill style */
+.page-content p > a {
+  display: inline-block;
+  margin: 0.15rem 0.35rem 0.15rem 0;
+  padding: 0.36rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--surface-soft);
+  text-decoration: none;
+}
+
+.page-content a:hover {
+  color: var(--brand);
+}
+
+.page-content p > a:hover {
+  border-color: #c7d2fe;
+  background: var(--brand-soft);
 }
 
 .page-content img,
 .page-content video {
   border-radius: 10px;
-  border: 1px solid #e5e7eb;
+  border: 1px solid var(--line);
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
 }
 
@@ -29,8 +66,79 @@
   margin: 0.4rem 0 1rem;
 }
 
+.page-content blockquote {
+  margin-left: 0;
+  padding: 0.75rem 1rem;
+  border-left: 4px solid #c7d2fe;
+  background: #f8faff;
+  color: #374151;
+}
+
+.page-content code {
+  padding: 0.14rem 0.36rem;
+  border-radius: 6px;
+  background: #f3f4f6;
+  border: 1px solid #e5e7eb;
+}
+
+.page-content pre code {
+  display: block;
+  padding: 0.9rem;
+  overflow-x: auto;
+  border-radius: 10px;
+}
+
+.page-content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0.9rem 0;
+  font-size: 0.95rem;
+}
+
+.page-content th,
+.page-content td {
+  border: 1px solid var(--line);
+  padding: 0.5rem 0.6rem;
+}
+
+.page-content th {
+  background: #f9fafb;
+}
+
 @media (max-width: 700px) {
   .page-content {
     font-size: 0.98rem;
+  }
+
+  .page-content p > a {
+    margin-bottom: 0.35rem;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --surface: #0f172a;
+    --surface-soft: #111827;
+    --text-main: #e5e7eb;
+    --text-sub: #cbd5e1;
+    --line: #334155;
+    --brand: #a5b4fc;
+    --brand-soft: #1e1b4b;
+  }
+
+  .page-content blockquote {
+    background: #111827;
+    border-left-color: #6366f1;
+    color: #d1d5db;
+  }
+
+  .page-content code {
+    background: #111827;
+    border-color: #374151;
+    color: #d1d5db;
+  }
+
+  .page-content th {
+    background: #0b1220;
   }
 }
