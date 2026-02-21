@@ -7,6 +7,24 @@ title: Getting Started
 
 # Getting Started
 
+## Screen walkthrough (English UI)
+
+### Home
+
+![Home overview (English)](./assets/screenshots/home-overview-en.png)
+
+### Prompt Library
+
+![Prompt library (English)](./assets/screenshots/prompt-library-en.png)
+
+### Groups
+
+![Group screen (English)](./assets/screenshots/group-screen-en.png)
+
+### Tab list (`x/4`)
+
+![Tab list (English)](./assets/screenshots/tab-list-en.png)
+
 ## First-time setup
 
 1. Set DeskAIer as your home launcher

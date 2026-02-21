@@ -7,6 +7,10 @@ title: Home UI & Display Settings
 
 # Home UI & Display Settings
 
+## Settings screen (English UI)
+
+![Settings overview (English)](./assets/screenshots/settings-overview-en.png)
+
 ## Section visibility
 
 You can toggle each section on/off individually:
